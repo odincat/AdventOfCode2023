@@ -1,0 +1,6 @@
+Part 1: 54601
+Part 2: 54078
+
+Conclusion:
+I'm gonna be honest, my main struggle was part 2, because I didn't account for "sevenine" being two numbers.
+This sort of case (two word numbers with the same starting letters) also wasn't in the example, which is why I was confused a little.

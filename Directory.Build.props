@@ -1,0 +1,9 @@
+<Project>
+  <ItemGroup>
+    <PackageReference
+      Include="Spectre.Console"
+      Version="0.48.0"
+      Condition="$(MSBuildProjectExtension) == '.csproj'"
+    />
+  </ItemGroup>
+</Project>
